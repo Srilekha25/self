@@ -1,6 +1,6 @@
 # portfolio
 
-Hello there Mate!
+Hello there, Mate!
 Welcome to my portfolio.
 
 This is a portfolio representation of me.
