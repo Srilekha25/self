@@ -1,0 +1,38 @@
+@import "themes";
+
+body {
+  background-color: $bgcolor;
+
+  .navbar {
+    background-color: $navcolor;
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center; 
+    position: sticky;   
+    
+
+    .navbar__name {
+        
+        align-items: flex-start;
+        
+    }
+    .navbar__menu {
+        
+        
+        
+    }
+
+    a {
+        text-decoration: none;
+        justify-content: center;
+        align-items: flex-end;
+        padding: 10px;
+        margin: auto;
+        color: $textcolor;
+        
+    }
+  }
+}
+
